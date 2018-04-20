@@ -52,6 +52,7 @@ public class MoreFragment extends BaseFragment {
                 startActivity(intent);
                 break;
             case R.id.ll_recomed:
+
                 intent = new Intent(mContext, RecomedActivity.class);
                 startActivity(intent);
                 break;
