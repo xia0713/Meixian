@@ -55,6 +55,7 @@ public class HuiyuanDetailActivity extends BaseNetActivity {
 
     @Override
     public void setData() {
+
     }
 
     @OnClick({R.id.back_layout, R.id.right_image, R.id.iv_share, R.id.iv_call, R.id.iv_address, R.id.iv_tag, R.id.ll_jianjie, R.id.ll_chanpin})
