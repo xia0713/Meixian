@@ -48,6 +48,7 @@ public class MoreFragment extends BaseFragment {
                 startActivity(intent);
                 break;
             case R.id.ll_liuyan:
+
                 intent = new Intent(mContext, LiuyanActivity.class);
                 startActivity(intent);
                 break;
